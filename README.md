@@ -9,4 +9,4 @@ Installation steps:
 7. cd /var/www/pterodactyl
 8. yarn
 8. cd /var/www/pterodactyl
-9. yarn build:production
+9. yarn build
